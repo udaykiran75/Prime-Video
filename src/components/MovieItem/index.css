@@ -1,0 +1,30 @@
+.movie-image {
+  width: 215px;
+  height: 150px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.popup-bg-container {
+  width: 750px;
+  height: 450px;
+}
+.popup-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+.cancel-icon-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+.movie-palyer-container {
+  margin-top: 10px;
+}
+.video {
+  width: 60vw;
+}
